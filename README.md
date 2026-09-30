@@ -1,4 +1,4 @@
-# AIGT-CTD
+# Cloud Intrusion Detection
 
 **AI/ML-Based Dynamic Graph-Transformer Framework for Explainable Threat Detection**
 
